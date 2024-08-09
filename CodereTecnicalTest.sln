@@ -19,6 +19,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodereTecnicalTest.Test.Uni
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodereTecnicalTest.Test.Integration", "CodereTecnicalTest.Test.Integration\CodereTecnicalTest.Test.Integration.csproj", "{039A51BC-A7F8-43B9-B3D1-24B17A580ACB}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "readme", "readme", "{0AC853B3-C837-4CF4-A79A-285451515C6F}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.txt = Readme.txt
+		CodereTecnicalTest.Db\script.sql = CodereTecnicalTest.Db\script.sql
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
